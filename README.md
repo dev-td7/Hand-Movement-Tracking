@@ -19,7 +19,7 @@ So, do not feel that it is reporting you opposite directions.
 ## Results
 
 An example of movement can be seen from these two frames:
-![Hand is still in this case, no movement](results/still.png) ![Hand has moved in the north direction](results/north.png)
+![Hand is still in this case, no movement](https://github.com/dev-td7/Hand-Movement-Tracking/blob/master/results/still.PNG?raw=true) ![Hand has moved in the north direction](https://github.com/dev-td7/Hand-Movement-Tracking/blob/master/results/north.PNG?raw=true)
 
 ### Constraints
 * Good lighting conditions are needed.
